@@ -16,7 +16,7 @@ p {
 /* Headings */
 
 .big-heading {
-  font-family: "Montserrat-Black";
+  font-family: "Montserrat";
   font-weight: bold;
   font-size: 3.5rem;
   line-height: 1.5;
@@ -62,7 +62,8 @@ p {
 
 .nav-link {
   font-size: 1.2rem;
-  font-family: "Montserrat-Light";
+  font-family: "Montserrat";
+  font-weight: light;
 }
 
 /* Buttons */
